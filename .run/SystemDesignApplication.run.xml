@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SystemDesignApplication" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.demo.systemdesign.SystemDesignApplication" />
+    <module name="springboot-system-design-demo" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    <option name="SHORTEN_COMMAND_LINE" value="ARGS_FILE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
+
